@@ -1,4 +1,7 @@
-# 超强vim配置文件 from : http://blog.csdn.net/chenyiming_1990/article/details/8834309
+# 超强vim配置文件 
+
+
+from : http://blog.csdn.net/chenyiming_1990/article/details/8834309
 
 ### 运行截图
 
